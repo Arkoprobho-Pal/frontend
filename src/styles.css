@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+#logo{
+    width:100px;
+    /* height: 150px; */
+}
+.btn{
+    margin-left:10px;
+    color:white;
+    border-color: white;
+    }
+h6{
+    visibility: hidden;
+}
+/* footer */
+#logo2{
+    width:150px;
+    /* height: 150px; */
+}
+.footer{
+     bottom:0;
+     color:white;
+  }
+/* footer end */
